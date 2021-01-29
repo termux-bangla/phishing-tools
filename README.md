@@ -38,7 +38,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone git://github.com/termux-bangla/phishing-tools.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
