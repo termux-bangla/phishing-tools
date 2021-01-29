@@ -87,6 +87,6 @@ $ docker run --rm -it htrtech/zphisher
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/termux-bangla" target="_blank"><img src="https://img.shields.io/badge/Github-Termux--Bangla-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.twitter.com/forhadart" target="_blank"><img src="https://img.shields.io/badge/IG-%40forhadart-red?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.instagram.com/forhad.art" target="_blank"><img src="https://img.shields.io/badge/IG-%40forhad.art-red?style=for-the-badge&logo=instagram"></a>
   <a href="https://m.me/forhadhaxor" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
